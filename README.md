@@ -1,6 +1,6 @@
 # Website to organize important events
 
-A React (or Laravel/etc.) based project built as part of my coursework.
+A React/Laravel based project built as part of my coursework.
 
 ## Features
 - Component-based UI
